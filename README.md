@@ -1,2 +1,2 @@
 # O.o_cpp
-Thi's very normal C++ Note
+这是一个普通的 CPP 的笔记.
